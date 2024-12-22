@@ -1,0 +1,2 @@
+set ttimeoutlen=100
+
